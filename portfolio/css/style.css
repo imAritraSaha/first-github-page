@@ -5,7 +5,6 @@ body {
     line-height: 2;
 }
 
-/* If we apply width to block elements text-align doesn't work there use margin: auto; */
 h1 {
     margin: 0;
     font-family: 'Sacramento', cursive;
@@ -71,6 +70,7 @@ hr {
 
 .skill-row p {
     line-height: 2;
+    margin-top: 2rem;
 }
 
 .html {
