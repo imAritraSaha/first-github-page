@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+
+/* If we apply width to block elements text-align doesn't work there use margin: auto; */
+h1 {
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+}
+
+p {
+    color: #40514E;
+    font-weight: 600;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+}
+
+hr {
+    width: 10%;
+    border-style: dotted;
+    border-width: 0.6rem 0 0 0;
+    color: #EAF6F6;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    padding-top: 200px;
+}
+
+
+.middle-container {
+    /* height: 200px;
+    width: 200px;
+    background-color: green; */
+    margin-top: 5rem;
+}
+
+
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    padding: 0 10rem;
+}
+
+
+.skill-row img {
+    width: 20%;
+}
+
+.skill-row p {
+    line-height: 2;
+}
+
+.html {
+    float: left;
+    margin-right: 30px;
+
+}
+
+.css {
+    float: right;
+}
+
+
+.web {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: relative;
+    left: 15em;
+    bottom: 2.5rem;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.btn {
+    background-color: #66BFBF;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 3rem;
+    padding: 0.8rem 2.5rem;
+    border-radius: 1rem;
+    display: inline-block;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 1.5rem 0;
+}
+
+.bottom-container .footer-link {
+    color: #11999E;
+    padding: 1.5rem;
+    font-weight: bold;
+}
+
+.bottom-container p {
+    color: #EAF6F6
+}
