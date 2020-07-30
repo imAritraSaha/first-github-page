@@ -1,2 +1,4 @@
 # first-github-page
-visit https://imaritrasaha.github.io/portfolio-demo/ :)
+https://imaritrasaha.github.io/git_prac
+# portfolio-demo
+https://imaritrasaha.github.io/git_prac/portfolio-demo
