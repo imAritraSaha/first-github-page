@@ -1,4 +1,6 @@
 # first-github-page
-https://imaritrasaha.github.io/git_prac
+https://imaritrasaha.github.io/prac
 # portfolio-demo
-https://imaritrasaha.github.io/git_prac/portfolio
+https://imaritrasaha.github.io/prac/portfolio
+# tinDogProject
+https://imaritrasaha.github.io/prac/tinDog
